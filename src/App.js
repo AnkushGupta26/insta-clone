@@ -1,9 +1,7 @@
-
+import Home from "./pages/Home";
 function App() {
   return (
-    <div className='container'>
-     <h1>Insta Clone</h1>
-    </div>
+      <Home/>
   );
 }
 
