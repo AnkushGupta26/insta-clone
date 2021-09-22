@@ -14,7 +14,7 @@ export default function Bio() {
                 <div className="col-md-6">
                     <div className="row">
                         <h3 className="mr-4">techchats</h3>
-                        <button type="button" class="btn btn-primary btn-sm">Follow</button>
+                        <button type="button" class="bt">Follow</button>
                     </div>
                     <div className="row"></div>
                     <div className="row"></div>
